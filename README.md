@@ -22,19 +22,20 @@ Simulação de um sistema de loja chamada PC Mania, onde o cliente pode escolher
 5. Execute o `Main.java`
 
 ## Estrutura do projeto
-
+```
   PCMania/
   └── src/
-  └── pcmania/
-  ├── Main.java
-  ├── model/
-  │   ├── HardwareBasico.java
-  │   ├── SistemaOperacional.java
-  │   ├── MemoriaUSB.java
-  │   ├── Computador.java
-  │   └── Cliente.java
-  └── util/
-  └── ProcessarPedido.java
+      └── pcmania/
+          ├── Main.java
+          ├── model/
+          │   ├── HardwareBasico.java
+          │   ├── SistemaOperacional.java
+          │   ├── MemoriaUSB.java
+          │   ├── Computador.java
+          │   └── Cliente.java
+          └── util/
+              └── ProcessarPedido.java
+```
 
 ## Uso de Inteligência Artificial
 
